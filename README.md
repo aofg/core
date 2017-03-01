@@ -1,1 +1,1 @@
-"# Age of Guilds Core Modules" 
+# Age of Guilds Core Modules
